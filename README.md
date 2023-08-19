@@ -2,6 +2,7 @@
 
 The present study aimed to investigate the effectiveness of Twitter's hate speech categorization system for corporate image management. The focus was on automating the identification of hate speech to enhance strategies for managing corporate image. Two machine learning models were developed to achieve this objective. The findings of this research indicate that hate speech on the internet can indeed be automatically recognized, offering potential opportunities for improved corporate image management practices.
 
+
 The primary contribution of this thesis lies in the development of two models for hate speech and offensive language classification, resulting in the categorization of content into three levels: poor, moderate, and dangerous. Based on this classification, suggested actions
 were assigned for moderators to appropriately address the identified hate speech entries. This approach provides a practical framework for companies to manage and mitigate the impact of hate speech on their corporate image.
 
